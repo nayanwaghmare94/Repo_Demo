@@ -1,3 +1,4 @@
+//Mulitplication of two numbers
 public class  Multiply {
      public integer mulmethod(){
     integer a = 10;
