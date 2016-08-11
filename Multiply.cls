@@ -1,11 +1,11 @@
-//Mulitplication of two numbers
+//Mulitplication 
 public class  Multiply {
      public integer mulmethod(){
     integer a = 10;
     integer b = 10;
-    integer c;
-            c = a * b;
-        system.debug('The multiplication is  = '+c);
-        return c;
+    integer res;
+            res = a * b;
+        system.debug('The multiplication is  = '+res);
+        return res;
     }
 }
