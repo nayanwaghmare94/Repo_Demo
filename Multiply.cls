@@ -1,5 +1,5 @@
 //Mulitplication of two numbers
-public class  Multiply {
+public class  MultiplyClass {
      public integer mulmethod(){
     integer a = 10;
     integer b = 10;
